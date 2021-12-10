@@ -10,5 +10,7 @@ The "Content_area" box color has to be changed in the CSS file(Line 316).
 
 My recommendation is to just download the files and run the HTML locally first.
 
+HTML Theme is - Identity by HTML5 UP - html5up.net
+
 ![GitHub Logo](/window.png)
 
