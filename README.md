@@ -8,5 +8,7 @@ You'll likely have to change a few things like the photo(Line 564), the Text(565
 
 The "Content_area" box color has to be changed in the CSS file(Line 316).
 
+My recommendation is to just download the files and run the HTML locally first.
+
 ![GitHub Logo](/window.png)
 
